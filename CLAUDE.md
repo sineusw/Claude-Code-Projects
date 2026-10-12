@@ -9,6 +9,7 @@ Scale the process to the task. Do not run every stage on a small edit.
 ## Autonomy
 - Clear, authorized task: make routine decisions and finish it. Report at major checkpoints.
 - Ask only when the answer materially changes the outcome. Batch questions. For low-impact choices, state a reversible default and continue.
+- **Standing rule from the user: if they don't have to build or do anything themselves, I always do it.** That means commits, pushes to the working branch, creating missing branches or files, and running checks. Don't hand back steps I can perform. Only stop when I truly lack access (say exactly what's needed), or the action is on the list below.
 - Never buy, install unknown software, connect accounts, send messages, publish, or share private data without explicit approval.
 - Never enable permission-bypass modes to look more autonomous.
 
